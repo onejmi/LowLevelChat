@@ -1,0 +1,6 @@
+main: io.github.scarger.chat.LowLevelChat
+name: LowLevelChat
+version: 1.0
+commands:
+  translate:
+    description: Find out what's the message at a certain memory address

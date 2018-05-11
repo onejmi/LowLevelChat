@@ -1,0 +1,6 @@
+﻿  io_github_scarger_chat_util_Translator.cpp
+c:\users\majed\source\repos\translator\translator\io_github_scarger_chat_util_translator.cpp(20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned short', possible loss of data
+c:\users\majed\source\repos\translator\translator\io_github_scarger_chat_util_translator.cpp(45): warning C4267: 'return': conversion from 'size_t' to 'unsigned short', possible loss of data
+c:\users\majed\source\repos\translator\translator\io_github_scarger_chat_util_translator.cpp(73): warning C4244: 'argument': conversion from 'jint' to 'unsigned short', possible loss of data
+     Creating library C:\Users\Majed\source\repos\Translator\x64\Debug\Translator.lib and object C:\Users\Majed\source\repos\Translator\x64\Debug\Translator.exp
+  Translator.vcxproj -> C:\Users\Majed\source\repos\Translator\x64\Debug\Translator.dll

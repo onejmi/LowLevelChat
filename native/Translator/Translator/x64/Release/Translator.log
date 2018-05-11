@@ -1,0 +1,10 @@
+﻿  io_github_scarger_chat_util_Translator.cpp
+io_github_scarger_chat_util_Translator.cpp(45): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned short', possible loss of data
+io_github_scarger_chat_util_Translator.cpp(68): warning C4267: 'return': conversion from 'size_t' to 'unsigned short', possible loss of data
+     Creating library C:\Users\Majed\source\repos\Translator\x64\Release\Translator.lib and object C:\Users\Majed\source\repos\Translator\x64\Release\Translator.exp
+  Generating code
+  29 of 224 functions (12.9%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    38 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Translator.vcxproj -> C:\Users\Majed\source\repos\Translator\x64\Release\Translator.dll
